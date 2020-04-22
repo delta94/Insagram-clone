@@ -23,6 +23,12 @@
           <sub><b>Khánh Nguyễn</b></sub>
         </a>
       </td>
+       <td align="center">
+        <a href="https://github.com/emonno13">
+          <img width="100" src="https://avatars2.githubusercontent.com/u/53046415?s=400&u=dce1114025aab29004182803d76e548141f22edf&v=4" alt="Nguyễn Đoàn Duy Khanh"><br/>
+          <sub><b>Nguyễn Đoàn Duy Khanh</b></sub>
+        </a>
+      </td>
     </tr>
   </table>
 </center>
